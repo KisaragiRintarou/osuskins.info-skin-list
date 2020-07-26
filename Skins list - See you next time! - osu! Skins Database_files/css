@@ -1,0 +1,34 @@
+@font-face {
+  font-family: 'PT Sans Caption';
+  font-style: normal;
+  font-weight: 400;
+  src: local('PT Sans Caption'), local('PTSans-Caption'), url(https://web.archive.org/web/20200115040641im_/https://fonts.gstatic.com/s/ptsanscaption/v12/0FlMVP6Hrxmt7-fsUFhlFXNIlpcqfQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'PT Sans Caption';
+  font-style: normal;
+  font-weight: 700;
+  src: local('PT Sans Caption Bold'), local('PTSans-CaptionBold'), url(https://web.archive.org/web/20200115040641im_/https://fonts.gstatic.com/s/ptsanscaption/v12/0FlJVP6Hrxmt7-fsUFhlFXNIlpcSwSrUSw.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 04:06:41 Jan 15, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 04:48:19 Jul 24, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.184
+  captures_list: 156.179
+  RedisCDXSource: 0.864
+  PetaboxLoader3.datanode: 150.911 (5)
+  exclusion.robots.policy: 0.171
+  LoadShardBlock: 138.188 (3)
+  CDXLines.iter: 12.01 (3)
+  load_resource: 270.984
+  PetaboxLoader3.resolve: 106.224 (2)
+  esindex: 0.009
+*/

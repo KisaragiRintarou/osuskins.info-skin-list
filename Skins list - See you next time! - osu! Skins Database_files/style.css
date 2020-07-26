@@ -1,0 +1,65 @@
+* {
+	margin:0;
+	padding:0;
+}
+body{
+	font-family: 'Quicksand Semibold',sans-serif;
+	color:rgb(51, 51, 51);
+	height:100vh;
+	margin-top:0 !important;
+	padding-top:0 !important;
+	min-width:800px !important;
+	
+}
+	body:before{
+	background: no-repeat url(https://i.imgur.com/R2jNAKV.jpg) center !important;
+	background-attachment:fixed !important;
+	background-size: cover !important;
+	content: '';
+	z-index: -1;
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	-webkit-filter: blur(5px);
+	height:51850px;
+	}
+
+	.gradient::before {
+		/*** HEADER BORDER TOP ***/
+		background-image: linear-gradient(to right, #73D2F6, #3369E8 22%, #EF5350 36%, #D50F25 48%, #FFE082 63%, #EEB211 76%, #009925) !important;
+		color: transparent !important;
+		content: "dd" !important;
+		height: 3px !important;
+		width: 100% !important;
+		position: absolute;
+		top: 0px !important;
+	}
+	
+	.main {
+		margin: auto;
+		text-align:center;
+		padding: 20px; 
+		margin-top: 20px;
+		background-color: rgba(245, 245, 245, 0.9);
+		border: 1px solid rgb(227, 227, 227);
+		position: relative;
+		width: 900px;
+		top:10%;
+		border-radius: 15px;
+	}
+	ul{list-style:none}
+	li{padding:5px}
+	a{
+	padding:2px;
+	text-decoration:none;
+	} 
+	a:hover{background-color:rgba(245, 245, 245, 0.9);
+color:black}
+hr {
+height:4px;
+margin-top:5px;
+border: 0px;
+border-radius:3px;
+background: linear-gradient(to right, #f18935, #f1356a 25%, #8535f1 50%, #35baf1 75%, #35f1ac) !important;}
